@@ -1,11 +1,10 @@
 ---
-title: This is the title of a news article
+title: Willie Tong has started using Jekyll
 author: Willie Tong
-date: Aug 08, 2017
+date: 2017-08-07 16:00:00
 category: news
-summary: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aliquam laoreet ultricies leo ut ornare.
-  Ut quis urna sed ipsum dapibus.
-image:
+summary: Willie is using Jekyll and CloudCannon to try set up a CMS.
+image: /uploads/black.jpg
 ---
+
+
