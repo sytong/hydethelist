@@ -8,3 +8,6 @@ image: /uploads/black.jpg
 ---
 
 
+Willie used Jekyll to create blank project. Then he added a **News Articles**&nbsp;article collection.&nbsp;
+
+He is still trying to figure out how to define **defaults**&nbsp;in *_config.yml*.
