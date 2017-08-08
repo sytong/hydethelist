@@ -2,3 +2,16 @@
 layout: default
 ---
 <h1>This is my index page!</h1>
+<section class='news'>
+  {% for news_article in site.news_articles %}
+    <section class='news-item'>
+      <div class='category'>{{ news_article.category }}</div>
+      <div class='title'>{{ news_article.title }}</div>
+      <div class='info'>
+        <span class='date'>{{ news_article.date }}</span> |
+        <span class='author'>{{ news_article.author }}</span>
+      </div>
+      <div class='summary'>{{ news_article.summary}}</div>
+    </section>
+  {% endfor %}
+</section>

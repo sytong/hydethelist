@@ -2,3 +2,10 @@
 # Site
 
 title: Hyde the List!!
+
+# -----
+# Build
+
+collections:
+  news_articles:
+    output: true
